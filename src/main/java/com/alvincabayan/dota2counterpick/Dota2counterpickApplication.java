@@ -29,8 +29,4 @@ public class Dota2counterpickApplication {
 		HttpEntity <String> entity = new HttpEntity<String>(headers);
 		return entity;
 	}
-	
-	
-	
-	
 }
